@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WeatherAplication:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WeatherAplication_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WeatherAplication/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WeatherAplication" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
